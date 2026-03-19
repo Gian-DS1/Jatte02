@@ -3,13 +3,13 @@
 <!-- BANNER / TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&random=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Jatte)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer;Quantitative+Finance+Enthusiast;Building+DeepValue+AI;Data+Science+%26+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Developer;Turning+data+into+decisions;Currently+exploring+Quantitative+Finance;Open+to+new+challenges+%26+collaborations)](https://git.io/typing-svg)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gestevez-ds/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jatte02)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-EMAIL-AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giancarlos.estevez@gmail.com)
 
 </div>
 
@@ -18,13 +18,15 @@
 ## 🚀 About me
 
 ```yaml
-Role:       AI / ML Developer & Quantitative Finance Enthusiast
-Project:    DeepValue AI — model-agnostic stock screener powered by ML
-Focus:      Machine Learning, Data Science, Financial Analytics
-Philosophy: Let the model learn what matters — no hard filters, pure signal
+Role:      Data Scientist & ML Developer
+Interests: Machine Learning, Analytics, Financial Markets, Automation
+Currently: Building DeepValue AI — an ML-powered stock screener
+Mindset:   Data can tell better stories than intuition alone
 ```
 
-I build intelligent tools that combine **machine learning** with **quantitative finance** to find deep value in the stock market. Currently developing **DeepValue AI**, a model-agnostic screener that feeds all fundamental data as features and lets the model decide what drives returns — no arbitrary cutoffs, no discarded opportunities.
+I'm a Data Scientist passionate about using **machine learning** and **analytics** to solve real-world problems — whether that's in finance, healthcare, logistics, or wherever the data leads. I enjoy the full pipeline: from raw data wrangling to model deployment.
+
+Right now I'm deep into **quantitative finance**, building tools that leverage ML to find value in the stock market. But I'm always curious about new domains and open to collaborating on projects where data-driven thinking can make an impact.
 
 ---
 
@@ -68,13 +70,13 @@ I build intelligent tools that combine **machine learning** with **quantitative 
 ## 📌 Featured Project
 
 ### [DeepValue AI](https://github.com/Jatte02/TFM-IMF)
-> **Model-agnostic stock screener powered by Machine Learning**
+> **ML-powered stock screener — let the model decide what matters**
 
-A quantitative finance tool that uses ML models to identify undervalued stocks. Instead of using rigid fundamental filters, DeepValue feeds **all financial data as features** and lets the model learn which metrics truly drive returns.
+A personal project at the intersection of Data Science and Quantitative Finance. Instead of traditional stock screeners that use rigid fundamental filters, DeepValue feeds **all financial data as features** and lets the model learn which metrics truly drive returns.
 
 🔹 No hard pre-filters — the model decides what matters  
 🔹 Screens by model signal + price position (SMA zones)  
-🔹 Architecture designed to swap models without code changes  
+🔹 Model-agnostic architecture — swap models without code changes  
 🔹 Built with Python, Pandas, Scikit-learn, Jupyter  
 
 ---
@@ -96,9 +98,10 @@ A quantitative finance tool that uses ML models to identify undervalued stocks. 
 
 ## 🌱 Currently
 
-- 🔨 Rebuilding **DeepValue AI v2** from scratch — new architecture, new repo
-- 📚 Deepening knowledge in **quantitative finance** and **ML model evaluation**
-- 🤝 Open to collaborate on **AI/ML** and **fintech** projects
+- 🔨 Rebuilding **DeepValue AI v2** — new architecture, new repo, built from scratch
+- 📚 Exploring **quantitative finance**, **ML model evaluation**, and **data engineering**
+- 💡 Interested in applying Data Science to **new domains and industries**
+- 🤝 Open to collaborate on **ML, analytics, and data-driven projects** of any kind
 
 ---
 
@@ -106,6 +109,6 @@ A quantitative finance tool that uses ML models to identify undervalued stocks. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jatte02&color=3B82F6&style=flat-square&label=Profile+Views)
 
-**"Don't discard companies that fail one metric but excel in others — let the model see everything."**
+**"Wherever there's messy data and a hard decision, there's a good problem to solve."**
 
 </div>
